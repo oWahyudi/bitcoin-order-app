@@ -1,4 +1,4 @@
-name: "sast-scan" 
+name: "sast-scan"
 
 on:
   push:
